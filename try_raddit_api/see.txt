@@ -1,0 +1,365 @@
+0
+[Title]:Any non-US ladies here?
+[Text]:US ladies, you’re fantastic, but I wondered if there are any mothers to be here from other parts of the world?
+
+I feel the whole culture around birthing and maternity leave is so different that it can be a little hard to relate sometimes.
+
+Edit: the sub is way more international than I’d have guessed! I’d love to see more posts from you guys about your experiences.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rguxfr/any_nonus_ladies_here/
+
+1
+[Title]:I thought this belonged here.
+[Text]:
+[URL]:https://i.redd.it/h0b1l002th581.png
+
+2
+[Title]:Solve for X: When will my weight catch up to my husbands? :)
+[Text]:I was texting with a friend who is a teacher today, joking about how big my belly is getting and how much weight I am gaining.
+
+I jokingly told her that I keep on thinking I’m about to surpass my husband’s weight, but he is also gaining weight so I’m not sure if I’ll ever catch up.
+
+She happily texted me back: “OMG! This is a perfect linear Algebra problem!”
+
+I laughed and asked her if she would write it if I sent her the data, and she was like “Of course; I’ll put it on our next Algebra test, too.” 
+
+So without further ado, here is the official Math problem:
+
+“Juliet is currently pregnant with Twins. At 6 weeks pregnant, she weighed 135 pounds. At 28 weeks pregnant, she weighs 167 pounds.
+
+“Juliet’s husband, Romeo, is gaining sympathy weight along with Juliet, although he is not pregnant with Twins like she is! At 6 weeks, he weighed 160 pounds. At 28 weeks, he weighs 172.
+
+“How many weeks and days along will Juliet be when she and Romeo weigh the same and she starts to surpass his weight?
+
+“Write out the functions you use to get your answer.”
+
+It made me laugh so, so hard. I hope her students like it, too!
+
+(And for those who want the answer, it is below):
+
+
+Juliet’s weight over time:
+Weight = 1.45*w + 135
+
+Romeo’s weight over time:
+Weight = 0.55*w + 160
+
+Juliet’s weight will start to surpass Romeo’s:
+1.45*w + 135 + 0.55*w + 160
+0.9*w = 25
+
+w = 27.78 weeks, where w= number of weeks after Week 6.
+
+27.78 + 6 = 33.78 weeks, or 33 weeks and 5 days! 
+
+Juliet will match Romeo’s weight on 33 weeks and 5 days, and she will begin to start surpassing his weight on that day.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgny4r/solve_for_x_when_will_my_weight_catch_up_to_my/
+
+3
+[Title]:Uh….. What are baby blankets for…?
+[Text]:We have at least 10 baby blankets from family and I had always pictured them in the crib like a comforter, but we just did a baby safety class where I learned it’s actually NOT recommended for babies to sleep with blankets.
+
+So….. what do you do with these? Are they only for the stroller? 
+
+Thank you in advance for putting up with my pregnancy brain.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgk03m/uh_what_are_baby_blankets_for/
+
+4
+[Title]:What I packed in my hospital bag (Useful vs Not useful)
+[Text]:I am a bit of a planner and a super excited first time Mama so I really prepared and packed my hospital bag a month before my EDD but ended up using only a few things when I gave birth. My OB gave me a heads up to prepare for new hospital regulations since they require patients to bring most of their things because of the pandemic.
+
+P.S: My husband bought everything online and from the department store. And all these stuff were based to my super specific situation (stayed 3 days in the hospital and had a C-section delivery)
+
+**Useful:**  
+Face Masks  
+Do not forget our best friend and protector against the virus.
+
+Important Documents  
+This is the most important! (License, ID’s, etc) My husband will be in charge of handling everything so I really made sure I put labels on it and it will be easier for him to find anything.
+
+My husband found a hospital bag checklist online from Mamaway that helped him a lot to satisfy my demands and made my life a bit easier because he bought their Belly Band, Nursing Bras, Baby Swaddle and Nursing Pillow. Since it was my first C-section, I was a bit worried about the incision pain. Luckily my husband bought their Belly Band and it just helped me a lot, I was able to move around the next day because the belly band held &amp; stabilized my incision! All of them I considered useful during our hospital stay.
+
+Toiletries  
+Suffered from a lot of acne while I was in my 3rd trimester so I need to bring my skincare. I used CeraVe Hydrating Facial Cleanser. They are very pregnant friendly.
+
+Blankets  
+I really prefer using fluffy and thick blankets so I really insisted on using my own and bringing my own even though it’s so heavy. So sorry for my husband for carrying everything.
+
+Comfy Clothes- Didn’t like wearing the gown given by the hospital on my first day and I prefer to wear my own, who knows. Covid is still everywhere.
+
+Big super-absorbent maxi pads  
+The quality of the pads given by the hospital is not that soft. I really encourage all MamaS to bring the one that you’ve tried before.
+
+Nipple Cream  
+Even though the hospital provided this for me, I still brought mine because I’m scared to try new products after giving birth since my skin became so sensitive while I was pregnant.
+
+Baby Clothes  
+I personally ordered all the baby clothes online. I chose the ones with cute designs at a cheap price. I brought maybe 4 pairs of clothes for my baby.
+
+**Not Useful/didn’t use:**
+
+Make-up  
+Really want to look good when I meet my baby so I brought my make up kit but ended up not using it since I got too excited meeting my little one and didn’t have the energy to do it.
+
+Pumping supplies  
+Our hospital does not allow me to use my own, According to the nurse, I must use their pump and supplies. Don’t really understand why.
+
+Too many changes of clothes  
+My husband was so irritated at me seeing all the clothes I packed and asked me if I planned living in the hospital. And he said in front of my face that I should’ve listened to him.
+
+And lastly, I should’ve brought my own roll up camping air mattress to lay comfortably on the bed. Hospital beds are not comfortable. Lol.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgrt49/what_i_packed_in_my_hospital_bag_useful_vs_not/
+
+5
+[Title]:I feel like absolute shit while pregnant.
+[Text]:Nauseous. In pain. Anxious. Constant diggestive issues. Baaad acne flare ups. Depression. Constant yeast infections for no reason. You name it, I can’t help to feel guilty about it with all my family telling me to smile and be over the moon on this stage, but I’m struggling badly.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgkbbt/i_feel_like_absolute_shit_while_pregnant/
+
+6
+[Title]:My precious little one
+[Text]:Was crying for personal reason while I was breast feeding my 2-days old baby and as soon as the tears dropped on her, her little hand immediately grabbed my index finger as if she's telling me, "Everything will be okay, momma. I'm here now." And I end up crying even harder. What did i do to deserve this little bean?! 😢
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgstii/my_precious_little_one/
+
+7
+[Title]:STM 37 weeks induction scary moment at the end
+[Text]:
+[URL]:https://i.redd.it/wu73vf2m6q581.jpg
+
+8
+[Title]:I don't understand people's obsession with bumps
+[Text]:I'm nearing 22 weeks now and my pump is pretty large compared to how I THINK it should look (for reference, I'm the exact same size and body type as my coworker who's pregnant with her second. Her due date is the week after me but I'm double the size she is). 
+
+Anyway. Everyone is so obsessed with my bump. If someone isn't commenting on it, they're trying to touch it. And I know this is mostly their excitement for me, but why the urge to touch my belly?
+
+I've NEVER wanted to touch a pregnant person's belly (I generally don't like touching people anyway). My mom will literally take any social situation to touch my stomach because she knows I'm too polite to say no to her on public (and she never tries when it's just us hanging out). I'm fine with it tho because at least she asks first. 
+
+It's just so bizarre to me overall.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgzudm/i_dont_understand_peoples_obsession_with_bumps/
+
+9
+[Title]:I saw him yesterday. He’s a boy. I love him.
+[Text]:When I look at his ultrasound photo and the curve of his little nose, the shape of his chin, his perfect little feet- I’ve only ever felt this much love for my daughter. I can feel my heart doubling in size already. Ny 20 week ultrasound yesterday was also my birthday, it was the best birthday gift I could dream of.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rh4ea2/i_saw_him_yesterday_hes_a_boy_i_love_him/
+
+10
+[Title]:Neutral-ish girl nursery w/ llamas!
+[Text]:
+[URL]:https://www.reddit.com/gallery/rgsgx3
+
+11
+[Title]:I'm giving birth tomorrow and I'm going to be all alone
+[Text]:My husband and I both have Covid so I'm not allowed to have anyone with me when I give birth. I'm so disappointed on his behalf and super duper anxious and scared for myself.
+
+I can't imagine this momentous occasion and having to do it alone. 
+
+With my first baby I was an emotional wreck up until I was able to hold him, and I feel like this time round I'm just going to be sobbing through the whole thing and after. Trying really hard to keep it together to be able to stay in the moment for my babe.
+
+This sucks so much, we have been super careful about Covid since right in the beginning (to protect sick relatives and then through my pregnancy) and I can't believe we ended up getting it this week of all weeks. I'm heartbroken.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rh5yh0/im_giving_birth_tomorrow_and_im_going_to_be_all/
+
+12
+[Title]:Am I nesting?
+[Text]:I know nesting is a thing. But I’m so tired of people telling me I’m nesting when I feel I’m just doing logical shit. 
+
+My husband and I are expecting our first. It was unexpected. We are in a one bedroom apartment and granted we both have a lot of stuff. We never planned on having kids so we spoiled ourselves and basically used the living room as a big ol closet. 
+When we found out, I slowly started going through my things and donating, selling, or storing what I could to make more space for the baby. (I have the convenience of being able to store both of our things at my work - big warehouse) 
+We have our bed in the living room now, and baby stuff (crib, dresser, etc) is in the bedroom. 
+
+However, we are now halfway through week 34 and husband has neglected to go through his things or allow me to take them to storage.
+I very much have mild OCD/anxiety and like things to be organized in general, so this has been an issue for me the entire pregnancy. I can’t get the baby things fully set up or deep clean anything until his stuff is gone through and moved. I asked for his assistance once again tonight but he’s “chillin” and doesn’t want to talk about “the same bullshit just because you’re nesting” 
+In this case I really don’t feel as if I am nesting. Just trying to get the main things done that we agreed upon that we (he) have procrastinated doing. 
+
+
+Edit to add: my main thing for wanted the organizing to be done is so I can actually relax and enjoy the last weeks of my pregnancy. I’ve had severe sciatic pain that has just now let up and I’d really love to be able to “chill” but my anxiety won’t let me leave everything until the last minute nor do I think that that is a good idea. 
+
+So strangers of Reddit, am I nesting?
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgph5t/am_i_nesting/
+
+13
+[Title]:Bad gas
+[Text]:Does anyone else have really bad gas while pregnant? If I had to guess, I’d say I toot like 10-15 times a day &amp; they smell SO bad 😅 I even toot in the middle of the night when I wake to go pee. I don’t have any cramping or pain.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgom16/bad_gas/
+
+14
+[Title]:I’m being induced today!
+[Text]:39+3 today. My last doctors visit my blood pressure was 140 (can’t remember bottom number), today, 5 days later, my blood pressure is 160. So here I am, about to be induced and I am so excited, scared, nervous, anxious, happy and all of the above. They wanted to start induction now but I’m waiting for my husband to come. I’m not even in my own room yet, still in triage. This is all happening so fast!
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rglzin/im_being_induced_today/
+
+15
+[Title]:I want my baby
+[Text]:That’s pretty much it. I’m lying here in bed crying at 39+6 because I was convinced last night would be the big night. I’m ready to meet him. My mom came down to help us and we’ve done the stair climbing, long outdoor walks, red raspberry leaf tea, acupressure heel massage, whatever spicy I can tolerate, and nothing. 
+
+I don’t care that I won’t sleep again for a long time. I don’t care that life is about to get harder for me and my husband. I don’t care that I’ll probably get peed on more times than I can count. We’ve been preparing for this. My body has spent 9, basically 10 months growing this baby, and I’m ready to hold him. And he’s doing his part - if he drops any lower I think he will fall out before I have a chance to react! 
+
+Hearing everyone say he’ll be late since I’m a FTM absolutely wrecks me. Not to mention it’s a full moon this weekend and I know lots of babies are born on full moons, but that’s after his due date and I don’t want to wait anymore. 
+
+I just needed to rant to someone. I woke my husband up with my crying earlier and he comforted me some but fell back sleep lol. But I know you all (or at least some of you!) will understand the feeling. I’m ready to share my graduation story. I’m ready to use all this baby stuff cluttering my house now. I’m as ready as I imagine one can be for the hardest yet most rewarding job on the planet. I’m ready to meet my baby boy.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgxr91/i_want_my_baby/
+
+16
+[Title]:Family members who don’t care about your boundaries.
+[Text]:My husbands aunt, who KNOWS how careful I am about Covid/RSV, kept asking us to come over and bring the baby cause she is just dying to hold the baby. That’s all she seemed to care about. Getting to hold him. I haven’t let her yet because she travels so much and is around so many people, I want my baby protected during this vulnerable time not just from Covid but RSV etc. i happened to stop by while my son was sleeping in the stroller, she YELLS his name excitedly, waking him up in fear, then just picks him up from the stroller and holds him, with her face in his face literally almost mouth to mouth. And she just came back from Florida. And she wouldn’t give him back to me as he cried so loud. What. The. Absolute. Hell. Poor boy cried for a whole hour. I hate when people don’t respect boundaries. Absolutely HATE it. Learn to set your boundaries parents cause you’ll need it!
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rh24yk/family_members_who_dont_care_about_your_boundaries/
+
+17
+[Title]:FTM positive graduation story!
+[Text]:So I’m a bit late getting round to this as my little boy was born 7th November at 40+5! 
+
+A few details: UK based and gave birth in a birthing centre within a hospital. Had a failed stretch and sweep at 40+2, the irritation to my cervix managed to get things moving though!
+
+The story begins at 4:30 am on 7/11, I wake up with contractions that were way more painful than the braxton hicks I’d had the week before but still not ott. Timing them, they start at 6 minutes apart. I woke my husband up accidentally by squeezing his hand too tight (wanted to hold off waking him after a false alarm hospital visit the previous week). We stayed home until they were 3 minutes apart and lasting at least 1 minute as this is what the midwife told me to do. I called up the hospital to let them know we were on our way in.
+
+We arrive around 9am, pain has definitely ramped up but I’m still coping. After being checked over I’m already at 4cm so the midwife gives me a quick stretch and sweep and leaves me and my husband to time and work through the contractions. At this point I haven’t been admitted as being in active labour just in case contractions stop. My waters were still intact. 
+
+After a couple hours I’m really starting to suffer. It is hospital policy to only do internal checks every 4 hours minimum to reduce risk of infection so I get DH to grab the midwife to see what pain relief I can have. Seeing as I had birthing pool in my birth plan, we decided on Pethidine as pain relief. That way I could transfer to the birth pool after it wore off and work through the rest of labour there. I’m a first time mum, labour can take ages! (Spoiler alert: not always). 
+
+Pethidine was great! It really helped me relax and take the edge off the peak of contractions, it made me go incredibly dizzy so I just laid on the bed with my eyes closed. The room can’t spin if you can’t see the room! 
+
+After 2 hours the pethidine wore off and the pain came back fast. I knew that my contractions had really gotten bad so we got the midwife back in and we decided to note me down as I’m active labour so I could start the gas and air. The time now is 12:30pm. Gas and air was great! It didn’t feel like it was working to begin with because I was still having to concentrate really hard on breathing it in with each contraction because I was in a good amount of pain. I mentioned to my midwife if I could be transferred to the labour ward to be put on the epidural list because I just needed a break from the pain. She said she would put the transfer in after her lunch break, in the mean time I was left with her supervisor (another midwife) who sat with us through the contractions. 
+
+Around 1pm I am begging for an instant epidural and mention to the midwife that my body is trying to push. So with my permission the midwife does an early internal check to see how I’ve progressed. She says “I can’t get you an epidural, but I can get you something else” I say “is it a baby?” She replies “yes, you’re 10 cm!”. 
+
+My midwife come back from her break early in utter surprise at how quickly I’ve progressed since getting there at 9 that morning! 1:30 I start to push. 
+
+Listening to my body, the midwives, and my husband, my baby was born at 2pm weighing 7lb 1oz! The midwives were very impressed with how I just did it with minimal help, they called it a textbook labour! I ended up with a minor 2nd degree tear that only needed 6 stitches. I was so proud of myself and from this experience, it wasn’t actually that bad! Don’t get me wrong, contractions are painful, but the pushing was just such a natural thing for my body to do that half an hour after our son was born, I told my husband that I’d happily have a second baby! 
+
+So from start to finish I was only in labour for 9.5 hours! 
+
+Gas and air does work btw, I managed to hit myself on the face with it and only realised I had a fat lip when the effects had wore off! 
+
+Whatever you lovely people decide on for your births I wish you all the best! Good luck and do not stress, babies arrive how they want to, you have to just go with the flow! You’ve got this!!
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgwrez/ftm_positive_graduation_story/
+
+18
+[Title]:Something funny (?)
+[Text]:Just to have you all smile (or get pissed off, like i did for a second). I called to schedule my postpartum appointment. The lady on the phone asks if it was a c-section or a vaginal delivery. I say vaginal. She says "are you sure"? Whaaat? Yeah, I am sure! Please don't ask anyone this question ever! (to her defense, I was originally scheduled for a c-section, and the baby turned last minute, so we ended up scheduling an induction. But still). 
+
+Anything funny happened to you?
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgjh1x/something_funny/
+
+19
+[Title]:Any other disabled moms to be?
+[Text]:I don't know if this is really the place for this, but I've come up empty looking for online spaces for disabled stb moms or parents. And please be kind.
+
+Are there any other disabled pregnant people on here? Or does anyone know of why subreddits for this? I'd really like to talk to other people in my specific boat, sharing our struggles and tips of dealing with our disabilities while pregnant.
+
+Edit: I have general hypermobility, which causes issues with my tendons in my knees, hips and ankles. I also have chronic SI joint issues, and compression fractures in my L3 and L4.
+
+Edit 2: I should have added my mental stuff! My husband and I both have ADHD. I also suffer from anxiety, depression and cPTSD.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rh1svo/any_other_disabled_moms_to_be/
+
+20
+[Title]:Doctors have to stop to talk off the top of their heads.
+[Text]:So I started this pregnancy with a BMI of 26, which is a little overweight. OB said I should gain about 22 pounds during the pregnancy, fine. Well, at my 24 weeks appointment last week, I gained it all already. OB said nothing this time (but he said I should be careful at every appointment before, I think he gave up), but when my one-hour glucose test came 145, he referred me to an internal disease doctor. This doctor said I should take the 3-hour test, which was reasonable. I took it and all my figures were great. He said that I don't have gestational diabetes and my blood pressure is perfect, but gave me a whole lecture about weight, exercising and healthy eating, just because I am a little overweight.
+
+Well, hear me out. I had PCOS since I was 15, so weight is something I struggled all my life, even when I was in the "normal range". Weight is a vicious cycle with PCOS. But prior to this pregnancy, I didn't eat ANY refined sugars and refined carbs FOR A YEAR. I was already walking and doing yoga. I was fairly athletic my entire life. I know about macros, vitamins and micronutrients. If you ask me, I think I know even too much for a non-specialist! But because of my weight, doctors just assume that I am lying around all day and eating junk. They don't even ask first about my eating and exercising habits!
+
+And since I am lurking around these pregnancy subs for a while now, I understand that a lot of women suffer from similar approaches. I also understand that every pregnancy and body is unique, that water weight is real and the added risk from weight gain is rather small. I feel like they are just talking based on some memorized lines and do not consider the unique circumstances of every patient. This has to stop. Mental health is as important as physical health, and the pressure they put on us because of a few pounds on the scale is ridiculous. The stress harms the baby and mother more than the few pounds.
+
+We need to create awareness on this issue, but I am not sure how.
+
+&amp;#x200B;
+
+I feel like I have to include this research here, too:
+
+[https://care.diabetesjournals.org/content/39/1/24](https://care.diabetesjournals.org/content/39/1/24)
+
+"Several lifestyle intervention trials targeted at limiting gestational weight gain or preventing obesity-related perinatal complications, including GDM, have been performed (21–29). However, the results have been inconsistent; some studies (22,25,27,28) have been successful in reducing gestational weight gain, but the effect on GDM incidence has been minor (23–29).
+
+The primary outcome of the Finnish Gestational Diabetes Prevention Study (RADIEL) was to examine the effect of **combined moderate physical activity and diet intervention** in high-risk women on the incidence of GDM in a randomized controlled study setting.
+
+(...)
+
+Weight Change
+
+There was a difference in gestational weight gain between the intervention group (2.5 kg \[95% CI 2.1–3.0\]) and the control group (3.1 kg \[95% CI 2.7–3.5\]) from baseline to the second trimester (at the time of the OGTT at week 23.4 on average), and the mean difference was −0.5 kg (\[95% CI −1.1 to 0.05\]; P = 0.072, unadjusted; P = 0.039, after adjustment for age, previous GDM status, the number of weeks of gestation, and baseline weight).
+
+The gestational weight gain was 7.6 kg (95% CI 6.7–8.3 kg) in the intervention group and 7.7 kg (95% CI 7.1–8.4 kg) in the control group from baseline to the third trimester, and the mean difference was −0.2 kg (\[95% CI −1.1 to 0.8\]; P = 0.74, unadjusted; P = 0.37, after adjustment for age, previous GDM status, the number of weeks of gestation, and baseline weight).
+
+(...)
+
+CONCLUSIONS
+
+**Despite the fact that only a small proportion of the women in the intervention group reached the physical activity goals, and the difference in weight gain was modest between the groups, it is obvious that the individual changes in lifestyle do not need to be large, but together they have a beneficial effect on the reduction of the incidence of GDM.**
+
+(...)
+
+A moderate individualized lifestyle intervention reduced the incidence of GDM by 39% in high-risk pregnant women. These findings may have major health consequences for both the mother and the child."
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rguooa/doctors_have_to_stop_to_talk_off_the_top_of_their/
+
+21
+[Title]:Ways for husband to support me during labour if I hate being touched/ need quiet?
+[Text]:My husband is feeling overwhelmed about how to support me during labour, and frankly I don’t have much of an idea either. All the articles online say to massage/ touch/ ask the mother what they need.
+
+I can’t imagine anything much worse than this to be honest! I really value silence, being in the zone, and cannot stand being touched when I’m sick/ sad/ in pain. 
+
+So with that being said, what are some ways my husband can support me during labour? I.e make sure I have water handy etc. just some little things so he has tasks to focus on, as it seems like the concept of me in labour and birth is a bit overwhelming for him at the moment. 
+
+Thanks!
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgw888/ways_for_husband_to_support_me_during_labour_if_i/
+
+22
+[Title]:Online Childbirth Class
+[Text]:Hello everybody !!! I wanted to share this class because I found out about it in this group and wanted to put it forward. If anybody is looking for an online class, the channel is Alice Turner on YOUTUBE and she has some videos on her channel you should browse through and also another class starts in March and it is 14 classes \[14 days\] on different topics. 
+
+&amp;#x200B;
+
+[http://birthtoolbox.com/class](https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbnFXTlBpTmVTRXBKR0pYY1hYSmlmTmZPVklkUXxBQ3Jtc0tsUlhpeTBuaXBoN2RvOUZXM1Nzal9ZWHFQVmxEZU1BQkhLR21aa0NLYURLOVljMEpURS1HQVNCc2ZGUHVMaE13OEt4YmFlU3dod0pIYzBELUtjTXZycFprRnJWT3hZUXBmT2JTd2dYRFdiajRkM2x5QQ&amp;q=http%3A%2F%2Fbirthtoolbox.com%2Fclass) This is also her website.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgokfy/online_childbirth_class/
+
+23
+[Title]:first trimester
+[Text]:i feel like sh*t 89% of the time, i’m exhausted and nauseous and my back hurts. i go from being okay to being overwhelmed with anxiety. i feel sad and then i feel guilty. i see so many women enjoying pregnancy, but it’s been really hard for me so far. is this normal?
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgiwdp/first_trimester/
+
+24
+[Title]:... So what really is a Braxton Hicks or contraction? How can I tell?
+[Text]:I know this has probably been asked but I'm struggling so here I go. 30 weeks here and I just... Don't know if I've had Braxton Hicks? Or rather... Don't think I've felt them? I hear/see so many people talking about their BHs or contractions and I just... Don't relate. What if I miss real labor if I don't know what I'm supposed to be feeling? My hospital is 35 minutes away and I'm getting nervous about missing signs. 
+
+Sometimes I lay my hands on my belly and I feel movement, like a rolling sensation but I've always felt it's my son actually moving, not my uterus contracting... like right now, I feel rapid fluttering like muscle spasm-y feelings around the bottom of my bump. Then I get the rolly sensation, higher up above my belly button and when I touch it it's physically firm like it's his body right there so I assume it is. Sometimes my belly is tight but like... I'm pregnant, of course it's tight?! 
+
+I don't know what I'm supposed to be feeling or looking for and the closer I get to the end of my pregnancy the more I worry about it. All I get from people is "your belly gets tight/hard and it's supposed to be painless" and I'm like okay...? And then I just feel super dense lol. Help. What am I looking for?
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgzhuc/so_what_really_is_a_braxton_hicks_or_contraction/
+
+25
+[Title]:Starting to become terrified of birth, baby not being okay and me not being okay.
+[Text]:Any remedies helping you ladies coming up to giving birth that are helping you stay calm and not imagine the worst is going to happen? I’m so anxious the last few nights and I’m also so tired as I was diagnosed with iron deficiency at my last appointment and put on a supplement so I’m even more anxious. (Even though I know it’s common for pregnant women). 😮‍💨
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgmyrb/starting_to_become_terrified_of_birth_baby_not/
+
+26
+[Title]:Doc picked up the heartbeat today!
+[Text]:I couldn't hear it, but she said it's there and I trust her. Still need my dating ultrasound but there's a confirmed fetus lodged in my uterus, woohoo!
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rh6ncx/doc_picked_up_the_heartbeat_today/
+
+27
+[Title]:I wish my boobs didn't hurt so much
+[Text]:I'm 22 weeks pregnant and for the past week my breasts feel like they are on fire. Super sensitive, painful and hot to touch(like through clothing hot). My nipples as well are super uncomfortable as well. Has anyone any ideas to help relieve the pain/discomfort? I'm presuming it's to do with my milk production. So far all I'm doing is taking paracetamol and ibuprofen which is giving me some relief from the pain side of things but I don't want to keep taking them if there is an alternative.
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgy5t5/i_wish_my_boobs_didnt_hurt_so_much/
+
+28
+[Title]:Little Bit of Gender Disappointment
+[Text]:I'm not in tears or anything but I'm just a little disappointed my first baby is a boy. I grew up with two sisters and we were raised by our mum, I feel so unprepared for a son! 
+
+I knew it's silly but girls things are so much cuter too. Boys clothes are getting cuter but I really love those floral patterns and feminine designs.
+
+Rationally I'm excited to be having a healthy baby with a partner I love, but selfishly I'm a tiny bit disappointed. Am I a terrible person?
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgqcg1/little_bit_of_gender_disappointment/
+
+29
+[Title]:Graduated at 39+6. Failed induction. Overall positive (long)
+[Text]:Sharing my very dramatic story. Overall, it was positive (baby healthy and perfect), but a lot of stuff went wrong that I didn’t know could go wrong. 
+
+Background: 32, FTM. Diagnosed with HG and GD, so a really difficult pregnancy. Due to the GD, my OB wanted to induce at 39+4. Baby was a little small (23rd percentile), but nothing scary. My HG got worse late in my 3rd trimester, so I spent the day before my induction throwing up. 
+
+Went in at 6am Sunday for my induction. My cervical check said I was completely closed and firm. I was really worried the cervical checks would hurt, but they really didn’t. I got cytotec and the induction began. The cytotec was a vaginal pill. They’d insert it, I’d lay down for two hours, take a half hour walk, and then at 4 hours, we’d do this again. We did this all day (four rounds) and no change. Still closed.
+
+We stopped the cytotec around midnight but then I started having contractions 4 minutes apart. At first they were okay, but quickly started hurting. I got some pain pills, which did nothing, then a dose of morphine. Still no help. They checked my cervix again, and I was 2cm, so we decided to do an epidural, which was always my plan. I found the insertion to be a lot more painful than I expected and took longer too, but once it was in, it was amazing. 
+
+So I slept with my beautiful epidural and at 6am, Monday morning, we started Pitocin. That’s where my story gets weird. Pitocin stopped my contractions completely and made me throw up constantly. We did Pitocin from 6am until 6pm. I felt miserable the whole time (so much nausea), my contractions mostly stopped, and I never progressed. 
+
+Overnight Monday, we decided to try cytotec for a few more rounds. Then pitocin again on Tuesday morning. Still no progress, so we started talking about a c section. I was onboard. It had been over 48 hours, I wasn’t progressing, and I kept throwing up. I was done. 
+
+So they got me into the c section at 11am. Nothing could have prepared me for the surgery. Everyone says pressure not pain, but it was painful. But the baby came out and he was perfect. However, when they started taking out the placenta, I started screaming in pain. I heard them say I was bleeding and next thing I know, I’m waking up in a recovery room. They had to put me out during the surgery, which I didn’t know was even an option.
+
+But the baby is perfect, and I’m recovering well. Happy the baby is safe. Sharing my story not to scare people but to show what a failed induction is like. I’m grateful for modern medicine and a great healthcare team. Births can go horribly wrong and still be okay!
+[URL]:https://www.reddit.com/r/BabyBumps/comments/rgrs8m/graduated_at_396_failed_induction_overall/
+
